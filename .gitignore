@@ -1,0 +1,4 @@
+# Project exclude paths
+/sentinel-feign-client/target/
+/sentinel-feign-eureka/target/
+/sentinel-feign-provider/target/
